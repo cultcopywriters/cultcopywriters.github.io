@@ -1,0 +1,115 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Gotham", sans-serif}
+.w3-bar,h1,button {font-family: "Gotham", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+.hero{
+    padding: 0px, 16px;
+    height: 100%;
+}
+
+.hero img{
+    width: 80px;
+    height: 80px;
+}
+
+.hero h1, p{
+    color: white;
+}
+
+.hero h1{
+    padding-top: 125px;
+    line-height: 1.4;
+    font-weight: 300;
+}
+
+.hero button{
+    font-family: Gotham-Medium;
+    font-size: 14.4px;
+    color: #FFFFFF;
+    letter-spacing: 0.63px;
+    text-align: center;
+    border: 1px solid #8B8B8B;
+}
+
+.hero button:hover{
+  background-color: #fff;
+  color: black;
+}
+
+.hero p{
+    font-size: 500px;
+    color: #CFCFD0;
+    margin-bottom: 85px;
+    font-weight: 100;
+    opacity: 0.8;
+}
+
+.bg{
+    background-image: url(Images/Hero-BG.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Content1{
+    background-color: #131218;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.Content1 h1{
+    color: white;
+    padding-bottom: 20px;
+}
+
+.Content1 h5{
+    color: white;
+    font-weight: 100;
+    margin-bottom: 80px
+}
+
+.Content2{
+    background-color: #131218;
+    height: 100%
+}
+
+.Content2 h1, h2, h5{
+    color: white;
+}
+
+.Content2 h2{
+    font-weight: 300;
+    padding-bottom: 0px;
+}
+
+.Content2 h5{
+    font-weight: 100;
+    padding-bottom: 25px;
+}
+
+.Content2 h3{
+    font-weight: 500;
+    color: #9C9EAB;
+}
+
+.Content2 .w3-twothird{
+    margin-left: 400px;
+}
+
+.Content2 button{
+    font-family: Gotham-Medium;
+    font-size: 14.4px;
+    color: #FFFFFF;
+    letter-spacing: 0.63px;
+    text-align: center;
+    border: 1px solid #8B8B8B;
+}
